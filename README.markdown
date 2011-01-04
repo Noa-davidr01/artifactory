@@ -4,7 +4,7 @@ A Ruby interface to the Artifactory REST API.
 
 ## The API
 
-The REST API is fully documented at [http://wiki.jfrog.org/confluence/display/RTF/Artifactory%27s+REST+API].
+The REST API is fully documented at <http://wiki.jfrog.org/confluence/display/RTF/Artifactory%27s+REST+API>.
 
 ## Contributing to artifactory
  
